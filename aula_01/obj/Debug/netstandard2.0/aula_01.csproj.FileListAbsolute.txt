@@ -1,0 +1,9 @@
+/home/samuel/Documentos/UFU/POO/aula_01/obj/Debug/netstandard2.0/aula_01.csprojAssemblyReference.cache
+/home/samuel/Documentos/UFU/POO/aula_01/obj/Debug/netstandard2.0/aula_01.csproj.CoreCompileInputs.cache
+/home/samuel/Documentos/UFU/POO/aula_01/obj/Debug/netstandard2.0/aula_01.AssemblyInfoInputs.cache
+/home/samuel/Documentos/UFU/POO/aula_01/obj/Debug/netstandard2.0/aula_01.AssemblyInfo.cs
+/home/samuel/Documentos/UFU/POO/aula_01/bin/Debug/netstandard2.0/aula_01.deps.json
+/home/samuel/Documentos/UFU/POO/aula_01/bin/Debug/netstandard2.0/aula_01.dll
+/home/samuel/Documentos/UFU/POO/aula_01/bin/Debug/netstandard2.0/aula_01.pdb
+/home/samuel/Documentos/UFU/POO/aula_01/obj/Debug/netstandard2.0/aula_01.dll
+/home/samuel/Documentos/UFU/POO/aula_01/obj/Debug/netstandard2.0/aula_01.pdb

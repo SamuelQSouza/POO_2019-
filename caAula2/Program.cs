@@ -10,7 +10,7 @@ namespace caAula2
             Aluno achei_aluno = null;
             for(int i = 0; i < alunos.Count; i++)
             {
-                if(nome_aluno == alunos[i].getNome());
+                if(nome_aluno == alunos[i].getNome())
                 {
                     achei_aluno = alunos[i];
                     break;
@@ -100,7 +100,7 @@ namespace caAula2
 
                     break;
                     
- case "3":
+                    case "3" :
                     Console.Write("Associar uma disciplina a um aluno\n");
                     Console.WriteLine("Escolha um aluno: \n");
                     //Apresentar lista de alunos
@@ -146,13 +146,11 @@ namespace caAula2
                     break;
 
                     default:
-                            Console.WriteLine("Favor escolher uma opção válida\n");
+                            Console.WriteLine("Favor escolher uma opção válida seu jênio\n");
                             break;
 
                 }//fim do switch
             }//fim do while
-                }
-            }
         }
     }
 }
