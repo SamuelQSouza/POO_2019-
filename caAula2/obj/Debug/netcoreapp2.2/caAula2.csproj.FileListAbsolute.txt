@@ -1,0 +1,11 @@
+/home/samuel/Documentos/UFU/POO/caAula2/bin/Debug/netcoreapp2.2/caAula2.deps.json
+/home/samuel/Documentos/UFU/POO/caAula2/bin/Debug/netcoreapp2.2/caAula2.runtimeconfig.json
+/home/samuel/Documentos/UFU/POO/caAula2/bin/Debug/netcoreapp2.2/caAula2.runtimeconfig.dev.json
+/home/samuel/Documentos/UFU/POO/caAula2/bin/Debug/netcoreapp2.2/caAula2.dll
+/home/samuel/Documentos/UFU/POO/caAula2/bin/Debug/netcoreapp2.2/caAula2.pdb
+/home/samuel/Documentos/UFU/POO/caAula2/obj/Debug/netcoreapp2.2/caAula2.csprojAssemblyReference.cache
+/home/samuel/Documentos/UFU/POO/caAula2/obj/Debug/netcoreapp2.2/caAula2.csproj.CoreCompileInputs.cache
+/home/samuel/Documentos/UFU/POO/caAula2/obj/Debug/netcoreapp2.2/caAula2.AssemblyInfoInputs.cache
+/home/samuel/Documentos/UFU/POO/caAula2/obj/Debug/netcoreapp2.2/caAula2.AssemblyInfo.cs
+/home/samuel/Documentos/UFU/POO/caAula2/obj/Debug/netcoreapp2.2/caAula2.dll
+/home/samuel/Documentos/UFU/POO/caAula2/obj/Debug/netcoreapp2.2/caAula2.pdb
