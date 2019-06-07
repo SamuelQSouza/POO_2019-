@@ -1,0 +1,10 @@
+C:\Users\samue\source\repos\wfPilhaDinamica\wfPilhaDinamica\bin\Debug\wfPilhaDinamica.exe.config
+C:\Users\samue\source\repos\wfPilhaDinamica\wfPilhaDinamica\bin\Debug\wfPilhaDinamica.exe
+C:\Users\samue\source\repos\wfPilhaDinamica\wfPilhaDinamica\bin\Debug\wfPilhaDinamica.pdb
+C:\Users\samue\source\repos\wfPilhaDinamica\wfPilhaDinamica\obj\Debug\wfPilhaDinamica.csprojAssemblyReference.cache
+C:\Users\samue\source\repos\wfPilhaDinamica\wfPilhaDinamica\obj\Debug\wfPilhaDinamica.Form1.resources
+C:\Users\samue\source\repos\wfPilhaDinamica\wfPilhaDinamica\obj\Debug\wfPilhaDinamica.Properties.Resources.resources
+C:\Users\samue\source\repos\wfPilhaDinamica\wfPilhaDinamica\obj\Debug\wfPilhaDinamica.csproj.GenerateResource.cache
+C:\Users\samue\source\repos\wfPilhaDinamica\wfPilhaDinamica\obj\Debug\wfPilhaDinamica.csproj.CoreCompileInputs.cache
+C:\Users\samue\source\repos\wfPilhaDinamica\wfPilhaDinamica\obj\Debug\wfPilhaDinamica.exe
+C:\Users\samue\source\repos\wfPilhaDinamica\wfPilhaDinamica\obj\Debug\wfPilhaDinamica.pdb
