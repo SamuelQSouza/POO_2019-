@@ -1,0 +1,10 @@
+C:\Users\samue\source\repos\wfTestMatExp\wfTestMatExp\bin\Debug\wfTestMatExp.exe.config
+C:\Users\samue\source\repos\wfTestMatExp\wfTestMatExp\bin\Debug\wfTestMatExp.exe
+C:\Users\samue\source\repos\wfTestMatExp\wfTestMatExp\bin\Debug\wfTestMatExp.pdb
+C:\Users\samue\source\repos\wfTestMatExp\wfTestMatExp\obj\Debug\wfTestMatExp.csprojAssemblyReference.cache
+C:\Users\samue\source\repos\wfTestMatExp\wfTestMatExp\obj\Debug\wfTestMatExp.Form1.resources
+C:\Users\samue\source\repos\wfTestMatExp\wfTestMatExp\obj\Debug\wfTestMatExp.Properties.Resources.resources
+C:\Users\samue\source\repos\wfTestMatExp\wfTestMatExp\obj\Debug\wfTestMatExp.csproj.GenerateResource.cache
+C:\Users\samue\source\repos\wfTestMatExp\wfTestMatExp\obj\Debug\wfTestMatExp.csproj.CoreCompileInputs.cache
+C:\Users\samue\source\repos\wfTestMatExp\wfTestMatExp\obj\Debug\wfTestMatExp.exe
+C:\Users\samue\source\repos\wfTestMatExp\wfTestMatExp\obj\Debug\wfTestMatExp.pdb
