@@ -1,0 +1,14 @@
+C:\Users\Luiz Henrique\source\repos\caPilhaDinamica\caPilhaDinamica\bin\Debug\caPilhaDinamica.exe.config
+C:\Users\Luiz Henrique\source\repos\caPilhaDinamica\caPilhaDinamica\bin\Debug\caPilhaDinamica.exe
+C:\Users\Luiz Henrique\source\repos\caPilhaDinamica\caPilhaDinamica\bin\Debug\caPilhaDinamica.pdb
+C:\Users\Luiz Henrique\source\repos\caPilhaDinamica\caPilhaDinamica\obj\Debug\caPilhaDinamica.csprojResolveAssemblyReference.cache
+C:\Users\Luiz Henrique\source\repos\caPilhaDinamica\caPilhaDinamica\obj\Debug\caPilhaDinamica.csproj.CoreCompileInputs.cache
+C:\Users\Luiz Henrique\source\repos\caPilhaDinamica\caPilhaDinamica\obj\Debug\caPilhaDinamica.exe
+C:\Users\Luiz Henrique\source\repos\caPilhaDinamica\caPilhaDinamica\obj\Debug\caPilhaDinamica.pdb
+C:\Users\samue\Downloads\caPilhaDinamica\caPilhaDinamica\bin\Debug\caPilhaDinamica.exe.config
+C:\Users\samue\Downloads\caPilhaDinamica\caPilhaDinamica\bin\Debug\caPilhaDinamica.exe
+C:\Users\samue\Downloads\caPilhaDinamica\caPilhaDinamica\bin\Debug\caPilhaDinamica.pdb
+C:\Users\samue\Downloads\caPilhaDinamica\caPilhaDinamica\obj\Debug\caPilhaDinamica.csprojAssemblyReference.cache
+C:\Users\samue\Downloads\caPilhaDinamica\caPilhaDinamica\obj\Debug\caPilhaDinamica.csproj.CoreCompileInputs.cache
+C:\Users\samue\Downloads\caPilhaDinamica\caPilhaDinamica\obj\Debug\caPilhaDinamica.exe
+C:\Users\samue\Downloads\caPilhaDinamica\caPilhaDinamica\obj\Debug\caPilhaDinamica.pdb
