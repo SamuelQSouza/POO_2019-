@@ -1,0 +1,10 @@
+C:\Users\Luiz Henrique\source\repos\wfaLab3\wfaLab3\bin\Debug\wfaLab3.exe.config
+C:\Users\Luiz Henrique\source\repos\wfaLab3\wfaLab3\bin\Debug\wfaLab3.exe
+C:\Users\Luiz Henrique\source\repos\wfaLab3\wfaLab3\bin\Debug\wfaLab3.pdb
+C:\Users\Luiz Henrique\source\repos\wfaLab3\wfaLab3\obj\Debug\wfaLab3.csprojResolveAssemblyReference.cache
+C:\Users\Luiz Henrique\source\repos\wfaLab3\wfaLab3\obj\Debug\wfaLab3.Form1.resources
+C:\Users\Luiz Henrique\source\repos\wfaLab3\wfaLab3\obj\Debug\wfaLab3.Properties.Resources.resources
+C:\Users\Luiz Henrique\source\repos\wfaLab3\wfaLab3\obj\Debug\wfaLab3.csproj.GenerateResource.cache
+C:\Users\Luiz Henrique\source\repos\wfaLab3\wfaLab3\obj\Debug\wfaLab3.csproj.CoreCompileInputs.cache
+C:\Users\Luiz Henrique\source\repos\wfaLab3\wfaLab3\obj\Debug\wfaLab3.exe
+C:\Users\Luiz Henrique\source\repos\wfaLab3\wfaLab3\obj\Debug\wfaLab3.pdb

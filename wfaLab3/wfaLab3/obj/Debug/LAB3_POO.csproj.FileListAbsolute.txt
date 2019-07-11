@@ -1,0 +1,9 @@
+C:\Users\Fernando Cruz\Documents\wfaLab3\wfaLab3\wfaLab3\bin\Debug\wfaLab3.exe.config
+C:\Users\Fernando Cruz\Documents\wfaLab3\wfaLab3\wfaLab3\bin\Debug\wfaLab3.exe
+C:\Users\Fernando Cruz\Documents\wfaLab3\wfaLab3\wfaLab3\bin\Debug\wfaLab3.pdb
+C:\Users\Fernando Cruz\Documents\wfaLab3\wfaLab3\wfaLab3\obj\Debug\LAB3_POO.Form1.resources
+C:\Users\Fernando Cruz\Documents\wfaLab3\wfaLab3\wfaLab3\obj\Debug\wfaLab3.Properties.Resources.resources
+C:\Users\Fernando Cruz\Documents\wfaLab3\wfaLab3\wfaLab3\obj\Debug\LAB3_POO.csproj.GenerateResource.cache
+C:\Users\Fernando Cruz\Documents\wfaLab3\wfaLab3\wfaLab3\obj\Debug\LAB3_POO.csproj.CoreCompileInputs.cache
+C:\Users\Fernando Cruz\Documents\wfaLab3\wfaLab3\wfaLab3\obj\Debug\wfaLab3.exe
+C:\Users\Fernando Cruz\Documents\wfaLab3\wfaLab3\wfaLab3\obj\Debug\wfaLab3.pdb
